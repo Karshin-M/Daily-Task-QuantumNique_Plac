@@ -1,0 +1,27 @@
+DBMS CONCEPT â€“ PRIMARY KEY
+
+A Primary Key is a column in a database table that uniquely identifies
+each row.
+
+Properties
+- Must be unique
+- Cannot be NULL
+- Only one primary key per table
+
+Example
+
+Student Table
+
+ID   Name
+1    Rahul
+2    Priya
+3    Arun
+
+Here ID is the primary key.
+
+Answer:
+        
+       create table Student(
+       ID int primary key,
+       Name varchar(20)
+       );  

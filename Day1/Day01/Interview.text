@@ -1,0 +1,12 @@
+INTERVIEW QUESTION OF THE DAY
+
+What is a Primary Key?
+
+Answer
+
+A Primary Key is a column in a database table that uniquely identifies
+each record in the table.
+
+Rules
+- Must be unique
+- Cannot be NULL

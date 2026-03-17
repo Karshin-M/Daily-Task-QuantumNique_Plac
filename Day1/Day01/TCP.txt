@@ -1,0 +1,42 @@
+NETWORKING CONCEPT â€“ TCP VS UDP
+
+TCP (Transmission Control Protocol)
+
+Characteristics
+- Reliable
+- Error checking
+- Data arrives in order
+
+Examples
+HTTP
+HTTPS
+FTP
+Email
+
+
+UDP (User Datagram Protocol)
+
+Characteristics
+- Faster
+- No guarantee of delivery
+- No error checking
+
+Examples
+Video streaming
+Online gaming
+VoIP calls
+
+
+Key Differences
+
+TCP
+Reliable
+Connection oriented
+Used for web pages
+
+UDP
+Fast
+Connectionless
+Used for streaming
+
+

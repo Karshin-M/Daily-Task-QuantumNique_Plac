@@ -1,0 +1,17 @@
+BLOCK 3–COMMUNICATION PRACTICE
+
+Speak for 2 minutes on:
+
+Introduce Yourself
+
+Include:
+- Name
+- College
+- Branch
+- Skills
+- Projects
+- Career goal
+
+     I am M.Karshin from Omular. I am Pursuing B.Tech-Information Technology at Muthayammal Engineering College in Rasipuram.
+I am interested in web developement and problem solving. I have worked on projects like AI web template suggestor and 
+Student Tracking System. My short-term goal is placed a good company.

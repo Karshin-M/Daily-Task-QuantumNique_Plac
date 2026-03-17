@@ -1,0 +1,19 @@
+
+Time complexity measures how fast an algorithm runs as input size grows.
+
+Common complexities
+
+O(1) â€“ Access array element
+O(log n) â€“ Binary search
+O(n) â€“ Linear search
+O(n log n) â€“ Merge sort
+O(nÂ²) â€“ Bubble sort
+
+
+Example
+
+for i in range(n):
+    print(i)
+
+Time Complexity
+O(n)

@@ -1,0 +1,31 @@
+
+Process
+A process is a program that is currently executing.
+
+Examples
+Chrome
+VS Code
+Spotify
+
+Thread
+A thread is the smallest unit of execution inside a process.
+
+A process can have multiple threads.
+
+Example
+Chrome browser:
+- One thread loads webpage
+- One thread handles UI
+- One thread downloads data
+
+Differences
+
+Process
+Heavyweight
+Separate memory
+Slow context switch
+
+Thread
+Lightweight
+Shared memory
+Fast context switch

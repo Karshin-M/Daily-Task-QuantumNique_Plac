@@ -1,0 +1,32 @@
+Reading Passage
+
+Technology is transforming industries rapidly. Artificial Intelligence,Machine Learning, and Automation are reshaping the way companies operate.
+Businesses now depend heavily on data-driven decision making.
+
+Questions & Answewrs:
+   
+1. What is the main idea of the passage?
+         The passage says that technology is changing industries very fast and companies are using
+       new technologies to work better.
+
+2. Which technologies are mentioned in the passage?
+         The technologies mentioned in the passage are :
+               1.Artificial Intelligence (AI)
+               2.Machine Learning
+               3.Automation
+
+3. Why are companies relying on data-driven decisions?
+         Companies use data-driven decisions because data helps them understand information and
+        make better decisions for their business. 
+
+Grammar Correction:
+   
+Question:
+    1. She don't understand the problem.
+    2. He have completed the task.
+    3. They was going to the meeting.
+
+Answer:
+        She doesn't understand the problem.
+        He has completed the task.
+        They were going to the meeting.
