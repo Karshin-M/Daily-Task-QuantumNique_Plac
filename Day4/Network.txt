@@ -1,0 +1,7 @@
+NETWORKING CONCEPT â€“ DNS
+
+DNS converts domain names into IP addresses.
+
+Example:
+google.com â†’ IP address
+

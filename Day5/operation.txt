@@ -1,0 +1,8 @@
+OPERATING SYSTEMS CONCEPT â€“ THREADS
+
+Threads are lightweight processes sharing same memory.
+
+Types:
+- User-level threads
+- Kernel-level threads
+

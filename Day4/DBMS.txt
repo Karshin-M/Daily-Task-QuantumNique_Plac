@@ -1,0 +1,9 @@
+BLOCK 6 â€“ CORE CS CONCEPTS
+
+DBMS CONCEPT â€“ INDEXING
+
+Indexing improves query performance by reducing search time.
+
+Types:
+- Primary Index
+- Secondary Index

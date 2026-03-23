@@ -1,0 +1,20 @@
+Good morning to all,
+
+Today I am going to explain a technical topic that I recently learned. The topic is API.
+First, I will explain the concept in a very simple way.
+API means Application Programming Interface. 
+It is used to connect two programs. It helps them talk to each other.
+In simple words, an API is like a waiter in a restaurant.
+When we go to a restaurant, we don’t go inside the kitchen. We tell the waiter what we want.
+The waiter takes the request to the kitchen and brings back the food.
+Just like that:
+
+The user gives a request
+The API sends the request
+The server gives the response
+
+Now I will give an example.
+
+When you open a mobile app and login, you enter your username and password.
+This data is sent to the server using an API.
+The server checks the data and sends back a response like Login Success or Invalid User.

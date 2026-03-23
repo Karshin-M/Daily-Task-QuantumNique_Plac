@@ -1,0 +1,9 @@
+OPERATING SYSTEMS CONCEPT â€“ MEMORY MANAGEMENT
+
+Memory management handles allocation and deallocation of memory.
+
+Concepts:
+- Paging
+- Segmentation
+- Virtual Memory
+

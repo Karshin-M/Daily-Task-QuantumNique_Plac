@@ -1,0 +1,6 @@
+INTERVIEW QUESTION OF THE DAY
+
+What is binary search and when can it be used?
+
+Answer:
+Binary search is used to find elements in sorted arrays with O(log n) complexity.

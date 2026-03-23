@@ -1,0 +1,9 @@
+NETWORKING CONCEPT â€“ HTTP vs HTTPS
+
+HTTP:
+- Not secure
+- Data not encrypted
+
+HTTPS:
+- Secure
+- Uses SSL/TLS encryption

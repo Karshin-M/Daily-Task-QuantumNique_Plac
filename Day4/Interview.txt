@@ -1,0 +1,6 @@
+INTERVIEW QUESTION OF THE DAY
+
+What is indexing in DBMS and why is it used?
+
+Answer:
+Indexing improves search performance by allowing faster data retrieval.

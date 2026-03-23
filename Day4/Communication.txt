@@ -1,0 +1,30 @@
+BLOCK 3 â€“ COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain a technical concept (e.g., Arrays / DBMS / OS)
+
+Include:
+- Definition
+- Real-world example
+- Use case
+
+Definition:
+          An array is a way to store many values in one variable.
+          All values in an array are of the same type.
+
+Real-word example:
+                 Suppose you have marks of 5 students.
+Without array:
+
+mark1 = 80
+mark2 = 90
+mark3 = 70
+
+With array:
+          marks = [80, 90, 70, 85, 95].
+
+Use case:
+        Store student marks
+        Store list of names
+        Store prices of products.    
