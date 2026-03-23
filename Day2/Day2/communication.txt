@@ -1,0 +1,23 @@
+BLOCK 3 â€“ COMMUNICATION PRACTICE
+
+Speak for 2â€“3 minutes on:
+
+Explain Your Final Year Project
+
+Include:
+- Project title
+- Problem statement
+- Technologies used
+- Your role in the project
+- Challenges faced
+
+GOOD MORNING TO ALL:
+
+           My final year project is titled Student Grade Tracking System.
+           The problem statement is that traditional methods of managing student grades are inefficient, error-prone, and lack transparency.
+           To address this, I developed a system that allows centralized and easy tracking of student performance.
+           The technologies used include the MERN stack — MongoDB, Express.js, React.js, and Node.js.
+           My role was to design and develop both frontend and backend, including authentication, dashboards, and grade management features.
+           One of the key challenges I faced was implementing secure login and managing data efficiently.
+
+                          Thank you

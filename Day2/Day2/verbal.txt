@@ -1,0 +1,32 @@
+BLOCK 2 – VERBAL ABILITY
+
+Reading Passage
+
+      Software development is evolving rapidly with the rise of cloud computing and
+   artificial intelligence. Companies are now building scalable systems that can
+   handle millions of users simultaneously.
+
+Questions :
+
+   1. What technologies are influencing software development?
+   2. Why are scalable systems important?
+   3. What does "scalable" mean in software systems?
+
+Answer :
+  
+    1.Cloud computing and artificial intelligence are influencing software development.
+    2.Because they can handle many users at the same time.
+    3.Scalable means the system can grow and still work properly when more users use it.
+
+
+Grammar Correction :
+
+   1. He don't like programming.
+   2. She have submitted the assignment.
+   3. They was discussing the project.
+
+Answer :
+
+   1.He doesn't like programming.
+   2.She has submitted the assignment.
+   3.They were discussing the project.

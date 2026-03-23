@@ -1,0 +1,13 @@
+INTERVIEW QUESTION OF THE DAY
+
+What is the difference between Primary Key and Foreign Key?
+
+Primary Key  
+        Uniquely identifies each row
+        Cannot be NULL
+        One per table
+
+Foreign Key
+       References primary key in another table
+       Can have duplicates
+       Multiple allowed.
