@@ -1,0 +1,4 @@
+OPERATING SYSTEMS CONCEPT – CONTEXT SWITCHING
+
+Context switching is the process of saving the state of one process/thread
+and loading the state of another so the CPU can switch execution.

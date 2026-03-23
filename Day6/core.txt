@@ -1,0 +1,12 @@
+CORE COMPUTER SCIENCE CONCEPT – QUEUE
+
+Queue follows FIFO (First In First Out)
+
+Operations:
+- Enqueue
+- Dequeue
+- Front/Peek
+
+Real-world example:
+- Printer queue
+- Ticket counter line

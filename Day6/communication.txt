@@ -1,0 +1,17 @@
+Topic: A Challenge I Faced While Learning Coding
+
+Good morning everyone,
+
+Today I am going to talk about a challenge I faced while learning coding.
+The challenge I faced was debugging errors in my code.
+When I started coding, I often got errors and my program did not run properly.
+This was difficult for me because I did not understand the error messages.
+Sometimes even a small mistake like a missing semicolon or wrong syntax caused problems.
+It took a lot of time to find where the mistake was.
+To overcome this challenge, I started practicing more.
+I read the error messages carefully and checked my code step by step.
+I also used online resources and watched tutorials to understand the mistakes.
+Gradually, I improved my debugging skills and started fixing errors faster.
+From this experience, I learned that patience and practice are very important in coding.
+Mistakes are normal and they help us learn better.
+Now I feel more confident while coding.

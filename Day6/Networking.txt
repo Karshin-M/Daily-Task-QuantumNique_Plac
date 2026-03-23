@@ -1,0 +1,9 @@
+NETWORKING CONCEPT – ROUTER VS SWITCH
+
+Router:
+- Connects different networks
+- Uses IP address
+
+Switch:
+- Connects devices within the same network
+- Uses MAC address

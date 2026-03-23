@@ -1,0 +1,10 @@
+INTERVIEW QUESTION OF THE DAY
+
+What are ACID properties in DBMS?
+
+Answer:
+ACID properties ensure reliable transactions:
+Atomicity means all or nothing.
+Consistency keeps data valid.
+Isolation separates concurrent transactions.
+Durability ensures committed data is permanent.

@@ -1,0 +1,11 @@
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – ACID PROPERTIES
+
+ACID stands for:
+- Atomicity
+- Consistency
+- Isolation
+- Durability
+
+These properties ensure reliable database transactions.
