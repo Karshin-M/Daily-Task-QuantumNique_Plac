@@ -1,0 +1,10 @@
+INTERVIEW QUESTION OF THE DAY
+
+What is the difference between process and thread?
+
+Process:
+Separate memory, heavy
+
+Thread:
+Shared memory, lightweight
+

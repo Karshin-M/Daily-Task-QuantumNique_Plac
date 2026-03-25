@@ -1,0 +1,4 @@
+NETWORKING CONCEPT â€“ FIREWALL
+
+Firewall is a security system that monitors and controls incoming and outgoing network traffic.
+

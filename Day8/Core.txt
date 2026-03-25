@@ -1,0 +1,8 @@
+CORE COMPUTER SCIENCE CONCEPT â€“ GRAPH
+
+Graph consists of vertices (nodes) and edges.
+
+Types:
+- Directed
+- Undirected
+- Weighted

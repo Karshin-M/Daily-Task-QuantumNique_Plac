@@ -1,0 +1,21 @@
+BLOCK 3 â€“ COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain your favorite programming language
+
+Include:
+- Why you like it
+- Where it is used
+- Features
+- Example project
+
+My favorite programming language is JavaScript. 
+I like JavaScript because it is simple and easy to learn for beginners.
+It helps me understand programming concepts clearly and allows me to create interactive web pages.
+JavaScript is mainly used in web development. 
+It works with HTML and CSS to design websites and add functionality like buttons, forms, and animations. 
+Some important features of JavaScript are that it runs in the browser, it is fast, and it can handle user actions easily. 
+It also allows me to update content on a webpage without reloading it. 
+As an example project, I created a simple login page where users can enter their username and password, and JavaScript checks the input and shows a message. 
+This shows how useful and beginner-friendly JavaScript is.
