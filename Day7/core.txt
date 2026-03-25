@@ -1,0 +1,3 @@
+CORE COMPUTER SCIENCE CONCEPT – TREE
+
+Tree is a hierarchical data structure.

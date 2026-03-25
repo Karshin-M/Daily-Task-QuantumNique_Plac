@@ -1,0 +1,6 @@
+INTERVIEW QUESTION OF THE DAY
+
+What is the difference between stack and queue?
+
+Stack uses LIFO.
+Queue uses FIFO.

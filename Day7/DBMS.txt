@@ -1,0 +1,5 @@
+BLOCK 6 – CORE CS CONCEPTS
+
+DBMS CONCEPT – TRANSACTIONS
+
+A transaction is a sequence of database operations treated as a single unit.

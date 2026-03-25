@@ -1,0 +1,20 @@
+BLOCK 3 â€“ COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain how the Internet works
+
+Include:
+- What happens when you type a URL
+- DNS
+- Server
+- Response
+
+The Internet is a system that connects many computers around the world and helps us open websites, watch videos, and send messages.
+When we type a website name like google.com in a browser, our computer sends a request to find that website. 
+But computers do not understand names, they understand numbers called IP addresses.
+So, DNS (Domain Name System) is used to convert the website name into an IP address, just like a phone book finds a number for a name. 
+After getting the IP address, the request goes to a server, which is a powerful computer where all the website data is stored.
+The server receives the request, finds the required data like text, images, and videos, and sends a response back to our computer. 
+Finally, the browser receives this data and shows it as a webpage on the screen.
+ 
