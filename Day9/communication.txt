@@ -1,0 +1,19 @@
+BLOCK 3 â€“ COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain what happens when you run a program
+
+Include:
+- Compilation / Interpretation
+- Memory allocation
+- Execution
+- Output
+
+When we run a program, first the code is checked and converted by a compiler or interpreter.
+Then the computer gives memory space to store data and variables.
+After that, the CPU starts executing the instructions step by step.
+The program processes the data and performs calculations.
+All operations happen inside the system very quickly.
+Finally, the program produces the result.
+The output is shown to the user on the screen.

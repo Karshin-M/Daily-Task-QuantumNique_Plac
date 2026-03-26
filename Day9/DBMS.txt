@@ -1,0 +1,10 @@
+BLOCK 6 â€“ CORE CS CONCEPTS
+
+DBMS CONCEPT â€“ NORMALIZATION
+
+Normalization is used to remove redundancy and improve database design.
+
+Normal Forms:
+1NF
+2NF
+3NF

@@ -1,0 +1,7 @@
+OPERATING SYSTEMS CONCEPT â€“ CPU SCHEDULING
+
+Types:
+- FCFS
+- SJF
+- Round Robin
+- Priority Scheduling

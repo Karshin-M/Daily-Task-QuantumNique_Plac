@@ -1,0 +1,9 @@
+CORE COMPUTER SCIENCE CONCEPT â€“ BINARY TREE
+
+Binary Tree:
+Each node has at most two children.
+
+Types:
+- Full Binary Tree
+- Complete Binary Tree
+- Perfect Binary Tree
