@@ -1,0 +1,19 @@
+BLOCK 3 â€“ COMMUNICATION PRACTICE
+
+Speak for 3 minutes on:
+
+Explain Binary Search algorithm
+
+Include:
+- Sorted array
+- Middle element
+- Divide search space
+- Time complexity
+
+Binary search is an efficient searching algorithm that only works on a sorted array.
+The process begins by identifying the middle element of the list and comparing it to the target value.
+If the target is smaller than the middle element, the search continues in the left half; if it is larger, it moves to the right half. 
+This logic allows the algorithm to repeatedly divide the search space in half, quickly narrowing down the location of the item. 
+Because it discards half of the data at every step, it is much faster than a linear search. 
+In technical terms, this results in a time complexity of O(log n), making it highly effective for large datasets. 
+Overall, binary search is a fundamental tool for high-speed data retrieval in sorted systems.

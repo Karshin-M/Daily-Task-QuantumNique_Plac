@@ -1,0 +1,7 @@
+CORE COMPUTER SCIENCE CONCEPT â€“ TREE TRAVERSAL
+
+Types:
+- Inorder
+- Preorder
+- Postorder
+- Level Order

@@ -1,0 +1,9 @@
+INTERVIEW QUESTION OF THE DAY
+
+Difference between Linear Search and Binary Search?
+
+Linear Search:
+Searches entire list
+
+Binary Search:
+Works on sorted list, divides search space

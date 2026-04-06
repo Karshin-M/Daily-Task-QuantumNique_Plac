@@ -1,0 +1,50 @@
+QUANTUMNIQUE PLACEMENT ENGINE
+DAY 10 â€“ FULL TRAINING PLAN (INTERVIEW FOCUSED)
+===========================================
+
+BLOCK 1 â€“ APTITUDE (Speed, Time & Distance)
+
+Question 1
+A car travels 60 km in 1 hour. What is the speed?
+
+Question 2
+A train travels at 50 km/hr. How long will it take to travel 150 km?
+
+Question 3
+If a person walks at 5 km/hr, how far will they walk in 3 hours?
+
+Question 4
+Two trains move in opposite direction at 40 km/hr and 60 km/hr.
+Find relative speed.
+
+Question 5
+A car travels first half distance at 40 km/hr and second half at 60 km/hr.
+Find average speed.
+
+
+1.Solution:
+speed=distance/time
+     =60km/1 hrs
+     =60km/hr.
+
+2.Solution:
+time=distance/speed
+    =150/50
+    =3 hours.
+
+3.Solution:
+Distance=speed*time
+        =5*3
+        =15km.
+
+4.Solution:
+When two objects move in opposite directions, their speeds are added
+=40+60
+=100km.
+
+5.Solution:
+average speed=2xy/x+y
+             =2*40*60/40+60
+             =4800/100
+             =48km/hrs.
+ 

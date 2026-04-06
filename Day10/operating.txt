@@ -1,0 +1,7 @@
+OPERATING SYSTEMS CONCEPT â€“ DEADLOCK CONDITIONS
+
+4 Deadlock Conditions:
+1. Mutual Exclusion
+2. Hold and Wait
+3. No Preemption
+4. Circular Wait
